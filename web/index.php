@@ -1,3 +1,3 @@
 <?php
-$newURL="/theme dev";
+$newURL="/theme dev.PHP";
 header('Location: '.$newURL);
